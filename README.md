@@ -15,9 +15,9 @@ The rest was a bit try and error and checking out the brandnew ArgumentParser li
 astokengenerator --key-id <key-id> --issuer-id <issuer-id> --path-to-private-key <path-to-private-key>
 ```
 
- - **key-id** = Your private key ID from App Store Connect (Ex: 2X9R4HXF34)                              |
- - **issuer-id** = Your issuer ID from the API Keys page in App Store Connect (Ex: 57246542-96fe-1a63-e053-0824d011072a) |
- - **path-to-private-key** = The path to the private key in .p8 format                                                |
+ - **key-id** = Your private key ID from App Store Connect (Ex: 2X9R4HXF34)
+ - **issuer-id** = Your issuer ID from the API Keys page in App Store Connect (Ex: 57246542-96fe-1a63-e053-0824d011072a)
+ - **path-to-private-key** = The path to the private key in .p8 format
 
 ## Dependencies
 - [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT)
